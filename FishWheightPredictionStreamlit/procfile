@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run fish_web_app.py
